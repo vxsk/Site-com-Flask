@@ -20,6 +20,12 @@ Segurança: Senhas dos usuários são armazenadas no banco de dados após aplica
 
 Restrição de Acesso: Os usuários só podem acessar a página inicial e fazer logout após serem autenticados pelo sistema.
 
+[Tela de Login](https://github.com/vxsk/Site-com-Flask/assets/71227147/6fb1bebf-8d46-4424-9069-ed7e3a796776)
+
+[Tela de Cadastro](https://github.com/vxsk/Site-com-Flask/assets/71227147/3eaf941a-4e66-40dc-b879-9d54942026e6)
+
+[Tela Home](https://github.com/vxsk/Site-com-Flask/assets/71227147/61a0991c-b8f9-4ffb-867d-37a90aa14bc9)
+
 # Agradecimentos:
 
 Obrigado por explorar este projeto!
