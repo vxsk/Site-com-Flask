@@ -32,6 +32,10 @@ Restrição de Acesso: Os usuários só podem acessar a página inicial e fazer 
 
 ![Tela Home](https://github.com/vxsk/Site-com-Flask/assets/71227147/61a0991c-b8f9-4ffb-867d-37a90aa14bc9)
 
+# Link Youtube: 
+
+https://www.youtube.com/watch?v=k2Z2XaNQWSc
+
 # Agradecimentos:
 
 Obrigado por explorar este projeto!
